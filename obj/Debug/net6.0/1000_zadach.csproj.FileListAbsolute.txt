@@ -1,0 +1,15 @@
+C:\Users\Валерия\Desktop\1000_zadach\bin\Debug\net6.0\1000_zadach.exe
+C:\Users\Валерия\Desktop\1000_zadach\bin\Debug\net6.0\1000_zadach.deps.json
+C:\Users\Валерия\Desktop\1000_zadach\bin\Debug\net6.0\1000_zadach.runtimeconfig.json
+C:\Users\Валерия\Desktop\1000_zadach\bin\Debug\net6.0\1000_zadach.dll
+C:\Users\Валерия\Desktop\1000_zadach\bin\Debug\net6.0\1000_zadach.pdb
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\1000_zadach.csproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\1000_zadach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\1000_zadach.AssemblyInfoInputs.cache
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\1000_zadach.AssemblyInfo.cs
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\1000_zadach.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\1000_zadach.dll
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\refint\1000_zadach.dll
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\1000_zadach.pdb
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\1000_zadach.genruntimeconfig.cache
+C:\Users\Валерия\Desktop\1000_zadach\obj\Debug\net6.0\ref\1000_zadach.dll
